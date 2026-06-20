@@ -1,0 +1,13 @@
+# ── Core data stack ───────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0        # .xlsx read/write (required by pandas for Excel)
+xlrd>=2.0.1            # Legacy .xls support (older Coal India exports)
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.0.0
