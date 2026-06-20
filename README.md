@@ -216,7 +216,7 @@ Search any keyword (e.g. "mass production", "core drilling") and instantly see a
 tenders, their winners, winning prices, and participating companies with rank and quoted price.
 Includes a KPI card comparing total winning price against tender value estimate.
 
-![Keyword Bid Explorer](docs/screenshots/01_keyword_bid_explorer.png)
+![Keyword Bid Explorer](docs/01_keyword_bid_explorer.png)
 
 ---
 
@@ -225,7 +225,7 @@ Aggregated view for a given keyword search: total bid count, sum of tender value
 time (dual-axis line chart), ministry distribution (stacked bar), and winning price by seller
 (bar chart). Useful for understanding market size and competitive density for any work category.
 
-![Keyword Summary](docs/screenshots/02_keyword_summary.png)
+![Keyword Summary](docs/02_keyword_summary.png)
 
 ---
 
@@ -234,7 +234,7 @@ Single-tender drill-through page. Shows the bid winner prominently, tender descr
 KPI cards (winning price vs tender value, contract period, bid start date, mineral, state,
 ministry, department), and a bar chart of all participating sellers ranked by quoted price.
 
-![Bid Detail](docs/screenshots/03_bid_detail.png)
+![Bid Detail](docs/03_bid_detail.png)
 
 ---
 
@@ -243,7 +243,7 @@ Filter by ministry to see total bids, sum of tender value, bids over time (2019â
 department breakdown (pie chart with counts), and top winners by total winning price.
 Shown here for Ministry of Mines: 817 bids, â‚¹5,348 Cr total tender value.
 
-![Ministry Overview](docs/screenshots/04_ministry_overview.png)
+![Ministry Overview](docs/04_ministry_overview.png)
 
 ---
 
@@ -253,7 +253,7 @@ total bids applied, bids won, L2/L3 near-miss rankings, total revenue won,
 ministry-wise bid distribution (stacked bar by rank), bid amounts for won tenders,
 and revenue trend over the years with a trendline.
 
-![Company Profile Activity](docs/screenshots/05a_company_profile_activity.png)
+![Company Profile Activity](docs/05a_company_profile_activity.png)
 
 ---
 
@@ -263,7 +263,7 @@ standard deviation, max, min, average margin %, contractor win rate, and average
 meter rate. Charts include winner vs runner-up price gap per bid, contract period by
 bid, and tender value vs winning price comparison.
 
-![Company Profile Pricing](docs/screenshots/05b_company_profile_pricing.png)
+![Company Profile Pricing](docs/05b_company_profile_pricing.png)
 
 ---
 
@@ -273,7 +273,7 @@ bids won, common bids with BMMPL, bids won against BMMPL, bids BMMPL won, and bi
 both lost. The main visual is a custom proportional bar showing total applied vs won,
 with the common-bid window highlighted in red and colour-coded by outcome.
 
-![Competitive Bid Overview](docs/screenshots/05c_competitive_bid_overview.png)
+![Competitive Bid Overview](docs/05c_competitive_bid_overview.png)
 
 ---
 
